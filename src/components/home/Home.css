@@ -1,0 +1,41 @@
+.twitterIcon, .facebookIcon, .pinterestIcon {
+  padding: 0px 10px 0px 10px;
+}
+.followHeader {
+  font-family: 'Sue Ellen Francisco', cursive;
+  text-transform: uppercase;
+  font-size: 20px;
+  letter-spacing: 0.0625em;
+  margin: 120px auto 0px auto;
+  font-weight: bold;
+  color: rgb(43,43,43);
+}
+.followIconsContainer {
+  margin-top:
+}
+.mainLoginButtonText, .mainSignupButtonText {
+  font-family: 'Open Sans', sans-serif;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+.Link {
+  text-decoration: none;
+}
+.mainSignupButton {
+  border: 3px solid rgb(231,91,83);
+  width: 70%;
+  margin: 12px auto;
+}
+.mainLoginButton {
+  margin: 12px auto;
+}
+.SignupLink {
+  color: rgb(231,91,83);
+}
+.LoginLink {
+  color: rgb(43,43,43);
+}
+.nannyTribeMainIcon {
+  margin: 120px auto 60px auto;
+  width: 45%;
+}
